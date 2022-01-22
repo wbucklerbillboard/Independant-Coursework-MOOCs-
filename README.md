@@ -7,4 +7,4 @@ differing software installation versions was a value-added moment.  These versio
 in ETL (https://stackoverflow.com/questions/67775916/spark-write-csv-doesnt-work-anymore-with-sparklyr)
 
 As an alternative, I used Pandas as a work around.  I referred to Lesson 6 in Geo-Python 2021.  After succeeding through Pandas, I loaded the two .csv files into Power BI.
-The final third .csv file, predicted results, was produced in a separate MOOC.  The predicted results file was also loaded into Power BI.
+The final third .csv file, predicted results, was produced in a separate MOOC (SpaDataVisML_Quakes).  The predicted results file was also loaded into Power BI.
